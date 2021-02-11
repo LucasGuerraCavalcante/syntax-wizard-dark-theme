@@ -2,7 +2,16 @@
 
 ## Preview
 
-soon...
+
+|   |   | 
+| ------------- | ------------- | 
+|  JavaScript |  json | 
+| ![JavaScript](https://i.imgur.com/gTH41vI.png)  | ![json](https://i.imgur.com/5ZPeNkv.png)  |
+|  HTML | CSS  | 
+| ![HTML](https://i.imgur.com/ekyoHDz.png)  | ![CSS](https://i.imgur.com/LXVlbqL.png)  |
+| Python  | C++  | 
+| ![Python](https://i.imgur.com/gIN2Z2H.png)  | ![C++](https://i.imgur.com/0qFj3xJ.png)  |
+
 
 ## Background 
 
