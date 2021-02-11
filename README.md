@@ -5,16 +5,20 @@
 
 ## Previews
 
-
-|   |   | 
-| ------------- | ------------- | 
-|  JavaScript |  Json | 
-| ![JavaScript](https://i.imgur.com/gTH41vI.png)  | ![json](https://i.imgur.com/5ZPeNkv.png)  |
-|  HTML | CSS  | 
-| ![HTML](https://i.imgur.com/ekyoHDz.png)  | ![CSS](https://i.imgur.com/LXVlbqL.png)  |
-| Python  | C++  | 
-| ![Python](https://i.imgur.com/gIN2Z2H.png)  | ![C++](https://i.imgur.com/0qFj3xJ.png)  |
-
+|   | 
+| ------------- | 
+| JavaScript |   
+| ![JavaScript](https://i.imgur.com/gTH41vI.png)  |
+| Json | 
+! ![json](https://i.imgur.com/5ZPeNkv.png)  |
+| HTML |
+| ![HTML](https://i.imgur.com/ekyoHDz.png)  |
+| CSS  | 
+| ![CSS](https://i.imgur.com/LXVlbqL.png)  |
+| Python  |
+| ![Python](https://i.imgur.com/gIN2Z2H.png)  |
+| C++  |
+| ![C++](https://i.imgur.com/0qFj3xJ.png)  |
 
 ## Background 
 
