@@ -1,0 +1,21 @@
+{
+    "name": "syntax-wizard-theme",
+    "displayName": "Syntax Wizard Dark Theme",
+    "description": "Dark Theme for VS Code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "LucasGuerraCavalcante",
+                "uiTheme": "vs-dark",
+                "path": "./themes/LucasGuerraCavalcante-color-theme.json"
+            }
+        ]
+    }
+}
