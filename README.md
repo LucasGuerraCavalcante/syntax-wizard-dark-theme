@@ -1,7 +1,7 @@
 # Syntax Wizard Theme
 
 ### VS Code Dark Theme inspired by GitHub's VS Code dark theme, magic, wizards and heavy metal.
-😄 💜 🧙 🔮
+😄 💜 💚 🧙 🔮 🐐 🍄 🎸
 
 ## Previews
 
@@ -28,7 +28,7 @@ Since I've never found a theme that was completely visually pleasing to me, I wa
 
 My problem with some themes is my dislike for some specific colors (which is completely subjective). I particularly hate yellow and orange, which are unfortunately very common for representing strings. I don't like white either, I don't know why but it sometimes feels "out of context" to me. Also, I think that a dark theme should have a really dark background, something close to black feels more pleasing to me.
 
-And I 💜 purple on dark backgrounds.
+And I 💜 💚 purple and green on dark backgrounds.
 
 So guided by these subjective personal tastes that no one cares about, I started it...
 
@@ -36,7 +36,7 @@ So guided by these subjective personal tastes that no one cares about, I started
 
 I felt in love with the GitHub syntax highlight theme, especially the dark one. So I've decided to edit GitHub's VS Code theme, available here [github.com/primer/github-vscode-theme](https://github.com/primer/github-vscode-theme).
 
-About the name... Well, it now has a lot of purple, which sometimes is related to magic and wizards, especially in video games and pop culture. It also reminds me of Electric Wizard, a heavy metal band that often uses purple in their artworks. So I came up with the Syntax Wizard 🧙🔮 . If there is a Dracula, I not a Wizard?! 😄
+About the name... Well, it now has a lot of purple, which sometimes is related to magic and wizards, especially in video games and pop culture. It also reminds me of Electric Wizard, a heavy metal band that often uses purple in their artworks. So I came up with the Syntax Wizard 🧙🔮 . If there is a Vampire (Dracula), why not a Wizard?! 😄
 
 # More Stuff
 
