@@ -1,11 +1,14 @@
 # Syntax Wizard Theme
 
-## Preview
+### VS Code Dark Theme inspired by GitHub's VS Code dark theme, magic, wizards and heavy metal.
+😄 💜 🧙 🔮
+
+## Previews
 
 
 |   |   | 
 | ------------- | ------------- | 
-|  JavaScript |  json | 
+|  JavaScript |  Json | 
 | ![JavaScript](https://i.imgur.com/gTH41vI.png)  | ![json](https://i.imgur.com/5ZPeNkv.png)  |
 |  HTML | CSS  | 
 | ![HTML](https://i.imgur.com/ekyoHDz.png)  | ![CSS](https://i.imgur.com/LXVlbqL.png)  |
