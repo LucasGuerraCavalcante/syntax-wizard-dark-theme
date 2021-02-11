@@ -297,7 +297,6 @@
 			"scope": "carriage-return",
 			"settings": {
 				"foreground": "#24292E",
-				"background": "#F97583",
 				"fontStyle": "italic underline"
 			}
 		},
@@ -414,7 +413,6 @@
 			],
 			"settings": {
 				"foreground": "#FDAEB7",
-				"background": "#86181D"
 			}
 		},
 		{
@@ -425,7 +423,6 @@
 			],
 			"settings": {
 				"foreground": "#85E89D",
-				"background": "#144620"
 			}
 		},
 		{
@@ -435,7 +432,6 @@
 			],
 			"settings": {
 				"foreground": "#FFAB70",
-				"background": "#C24E00"
 			}
 		},
 		{
@@ -445,7 +441,6 @@
 			],
 			"settings": {
 				"foreground": "#2F363D",
-				"background": "#79B8FF"
 			}
 		},
 		{
