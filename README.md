@@ -8,17 +8,15 @@
 |   | 
 | ------------- | 
 | JavaScript |   
-| ![JavaScript](https://i.imgur.com/gTH41vI.png)  |
+| ![JavaScript](https://i.imgur.com/vM7HAjX.png)  |
+| React / JSX / TypeScript |   
+| ![react](https://i.imgur.com/zjyuA1N.png)  |
 | Json | 
 ! ![json](https://i.imgur.com/5ZPeNkv.png)  |
 | HTML |
 | ![HTML](https://i.imgur.com/ekyoHDz.png)  |
 | CSS  | 
 | ![CSS](https://i.imgur.com/LXVlbqL.png)  |
-| Python  |
-| ![Python](https://i.imgur.com/gIN2Z2H.png)  |
-| C++  |
-| ![C++](https://i.imgur.com/0qFj3xJ.png)  |
 
 ## Background 
 
