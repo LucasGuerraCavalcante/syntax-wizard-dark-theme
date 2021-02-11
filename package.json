@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "LucasGuerraCavalcante",
+                "label": "Syntax Wizard Dark Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/LucasGuerraCavalcante-color-theme.json"
+                "path": "./themes/syntax-wizard-dark-theme.json"
             }
         ]
     }
