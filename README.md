@@ -22,7 +22,7 @@ This is a very personal small project.
 
 Since I've never found a theme that was completely visually pleasing to me, I was determined to try to find some balance by editing a theme that already existed.
 
-My problem with some themes is my dislike for some specific colors (which is completely subjective). I particularly hate yellow and orange, which are unfortunately very common for representing strings. I don't like white either, I don't know why but it feels "out of context" to me. Also, I think that a dark theme should have a really dark background, something close to black feels more pleasing to me.
+My problem with some themes is my dislike for some specific colors (which is completely subjective). I particularly hate yellow and orange, which are unfortunately very common for representing strings. I don't like white either, I don't know why but it sometimes feels "out of context" to me. Also, I think that a dark theme should have a really dark background, something close to black feels more pleasing to me.
 
 And I 💜 purple on dark backgrounds.
 
@@ -90,3 +90,8 @@ yo code
 ```
 
 * Really useful content [here](https://livierickson.com/blog/create-your-own-color-theme-for-visual-studio-code/)!!!!
+
+## License
+
+LucasGuerraCavalcante/syntax-wizard-dark-theme is licensed under the MIT License.
+
