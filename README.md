@@ -1,6 +1,6 @@
 # Syntax Wizard Theme
 
-### VS Code Dark Theme inspired by GitHub's VS Code dark theme, magic, wizards and heavy metal.
+### VS Code Dark Theme inspired by GitHub's VS Code dark theme, wizards and heavy metal.
 
 ![wizard](https://i.imgur.com/OSQUTjl.png)
 
@@ -13,7 +13,7 @@
 | React / JSX / TypeScript |   
 | ![react](https://i.imgur.com/zjyuA1N.png)  |
 | Json | 
-! ![json](https://i.imgur.com/5ZPeNkv.png)  |
+| ![json](https://i.imgur.com/5ZPeNkv.png)  |
 | HTML |
 | ![HTML](https://i.imgur.com/ekyoHDz.png)  |
 | CSS  | 
@@ -44,7 +44,6 @@ About the name... Well, it now has a lot of purple, which sometimes is related t
 ```bash
 git clone https://github.com/LucasGuerraCavalcante/syntax-wizard-dark-theme.git
 ```
-
 Here are some useful editor keyboard shortcuts:
 
 * Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
