@@ -9,15 +9,17 @@
 |   | 
 | ------------- | 
 | JavaScript |   
-| ![JavaScript](https://i.imgur.com/vM7HAjX.png)  |
+| ![JavaScript](https://i.imgur.com/WKz5xAZ.png)  |
 | React / JSX / TypeScript |   
-| ![react](https://i.imgur.com/zjyuA1N.png)  |
-| Json | 
-| ![json](https://i.imgur.com/5ZPeNkv.png)  |
+| ![react](https://i.imgur.com/ZRcaSvb.png)  |
 | HTML |
-| ![HTML](https://i.imgur.com/ekyoHDz.png)  |
+| ![HTML](https://i.imgur.com/44OiYkK.png)  |
 | CSS  | 
-| ![CSS](https://i.imgur.com/LXVlbqL.png)  |
+| ![CSS](https://i.imgur.com/UoMXcJC.png)  |
+| Json | 
+| ![json](https://i.imgur.com/EJOx8qb.png)  |
+
+![ColorPalette](https://i.imgur.com/OgvWe3j.png) 
 
 ## Background 
 
