@@ -161,7 +161,7 @@
 				"string.comment"
 			],
 			"settings": {
-				"foreground": "#6A737D"
+				"foreground": "#4A007A"
 			}
 		},
 		{
@@ -181,13 +181,13 @@
 				"entity.name"
 			],
 			"settings": {
-				"foreground": "#b392f0"
+				"foreground": "#85E89D"
 			}
 		},
 		{
 			"scope": "variable.parameter.function",
 			"settings": {
-				"foreground": "#E1E4E8"
+				"foreground": "#79B8FF"
 			}
 		},
 		{
@@ -241,7 +241,7 @@
 		{
 			"scope": "support",
 			"settings": {
-				"foreground": "#85e89d"
+				"foreground": "#AA75F0"
 			}
 		},
 		{
@@ -253,13 +253,13 @@
 		{
 			"scope": "variable",
 			"settings": {
-				"foreground": "#FFAB70"
+				"foreground": "#AA75F0"
 			}
 		},
 		{
 			"scope": "variable.other",
 			"settings": {
-				"foreground": "#8a63d2"
+				"foreground": "#AA75F0"
 			}
 		},
 		{
