@@ -199,7 +199,7 @@
 		{
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#F97583"
+				"foreground": "#ea4aaa"
 			}
 		},
 		{
@@ -208,7 +208,7 @@
 				"storage.type"
 			],
 			"settings": {
-				"foreground": "#F97583"
+				"foreground": "#ea4aaa"
 			}
 		},
 		{
